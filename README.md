@@ -23,7 +23,7 @@ Specify the number of months for simulation. For example, if 10 is passed, it wi
 
 Basically, higher score is worse.
 
-- 1: Two people in a group once have lunch together 3 months ago.
-- 2: Two people in a group once have lunch together 2 months ago.
-- 3: Two people in a group once have lunch together 1 month ago.
+- 1: Two people in a group had lunch together 3 months ago.
+- 2: Two people in a group had lunch together 2 months ago.
+- 3: Two people in a group had lunch together 1 month ago.
 - 4: Two people in a group are in same team; they probably have lunch together frequently.
